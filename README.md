@@ -15,6 +15,7 @@ To use the IP lookup you just need to:
 
 ![image](https://github.com/user-attachments/assets/1a98cd87-6372-4538-a25f-1fd8b66ccd04)
 
+-----------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/34972df9-325b-47cf-b435-fae37ef08842)
 
